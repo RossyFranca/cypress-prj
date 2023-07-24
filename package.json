@@ -1,0 +1,22 @@
+{
+  "name": "cypress-prj",
+  "version": "1.0.0",
+  "description": "POC cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run e2e/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RossyFranca/cypress-prj.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RossyFranca/cypress-prj/issues"
+  },
+  "homepage": "https://github.com/RossyFranca/cypress-prj#readme",
+  "devDependencies": {
+    "cypress": "^12.17.2"
+  }
+}
